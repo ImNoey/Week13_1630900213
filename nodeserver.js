@@ -14,17 +14,17 @@ var user_list = [
 
 //Add Feature Bar Variables
 var feature = [
-    {img : "images/pexels.jpg", 
+    {img : "Img/pexels-olia-danilevich-4974914.jpg", 
     top : "Programming  Courses", 
     bottom : "Enjoy Coding and Playing HTML, CSS,JavaScript <^v^>"},
  
-    {img : "images/pexelss.jpg",
+    {img : "Img/pexels-alex-knight-2599244.jpg",
     top : "AIoT and Robotics  Courses",
     bottom : "Enjoy Coding and Playing Python, ROS, Mechanics <^v^>"}
 ]
 //Add Content Fonts
 var contentfont1 = "ONLINE CREATIVE WEBSITE"
-var contentfont2 = "Presented by natnapa J"
+var contentfont2 = "Presented by Kanokphon ImNoey"
 
 //Set & Call EJS
 app.set("view engine", 'ejs')
